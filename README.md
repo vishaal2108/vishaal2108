@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-Passionate about building responsive web applications and continuously improving through learning and hands-on projects.
+Passionate about building responsive web applications, learning modern technologies, and turning ideas into meaningful digital experiences.
 </p>
 
 ---
@@ -21,7 +21,7 @@ Passionate about building responsive web applications and continuously improving
 * 🎓 B.Tech Information Technology (2022 – 2026)
 * 💻 Frontend Development Enthusiast
 * ⚛️ Currently Learning React & TypeScript
-* 🌱 Building Projects & Sharpening Problem-Solving Skills
+* 🌱 Consistently Improving Through Projects & Practice
 * 🏢 Frontend Developer Intern at Datayaan Solutions Pvt. Ltd.
 * 📍 Tamil Nadu, India
 
@@ -47,7 +47,7 @@ Passionate about building responsive web applications and continuously improving
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
@@ -60,9 +60,8 @@ Passionate about building responsive web applications and continuously improving
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/visualstudiocode" height="48" title="VS Code Insiders" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/windows95" height="48" title="EditPlus" />
+  <img src="https://img.shields.io/badge/VS_Code_Insiders-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/EditPlus-Text%20Editor-blue?style=for-the-badge" />
 </p>
 
 ---
@@ -70,23 +69,23 @@ Passionate about building responsive web applications and continuously improving
 ## 🤖 AI Development Tools
 
 <p>
-  <img src="https://cdn.simpleicons.org/cursor" height="48" title="Cursor" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/stackblitz" height="48" title="Bolt.new" />
+  <img src="https://cdn.simpleicons.org/cursor" height="48" title="Cursor"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/stackblitz" height="48" title="Bolt.new"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Lovable-AI-purple?style=for-the-badge"/>
 </p>
-
-* ❤️ Lovable AI
 
 ---
 
 ## 📚 Learning & Problem Solving Platforms
 
 <p>
-  <img src="https://cdn.simpleicons.org/leetcode" height="48" title="LeetCode" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/geeksforgeeks" height="48" title="GeeksforGeeks" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/w3schools" height="48" title="W3Schools" />
+  <img src="https://cdn.simpleicons.org/leetcode" height="48" title="LeetCode"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/geeksforgeeks" height="48" title="GeeksforGeeks"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/w3schools" height="48" title="W3Schools"/>
 </p>
 
 ---
@@ -98,6 +97,7 @@ Passionate about building responsive web applications and continuously improving
 * 🔄 DOM Manipulation
 * ⚡ Event Handling
 * 🌍 Cross-Browser Compatibility
+* 🧩 Component-Based Architecture
 
 ---
 
