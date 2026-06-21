@@ -1,29 +1,29 @@
-
 <h1 align="center">Hi 👋, I'm Vishaal</h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishaal-r-65b949330/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 <h3 align="center">
-Frontend Developer | B.Tech IT Student | Lifelong Learner 🚀
+Frontend Developer 🚀 | B.Tech IT Student 🎓
 </h3>
 
 <p align="center">
-Passionate about building responsive web applications, exploring modern frontend technologies, and solving real-world problems through code.
+Passionate about creating responsive web applications, learning modern technologies, and solving real-world problems through code.
 </p>
 
 ---
 
-## 🚀 About Me
+## 🙋‍♂️ About Me
 
-🎓 B.Tech Information Technology (2022 - 2026)
-
-💻 Focused on Frontend Development
-
-⚛️ Currently learning React & TypeScript
-
-🌱 Building projects and improving problem-solving skills every day
-
-🏢 Former Frontend Developer Intern at Datayaan Solutions Pvt. Ltd.
-
-📍 Tamil Nadu, India
+- 🎓 B.Tech Information Technology (2022 – 2026)
+- 💻 Frontend Development Enthusiast
+- ⚛️ Currently Learning React & TypeScript
+- 🌱 Consistently Improving Through Projects & Practice
+- 🏢 Former Frontend Developer Intern at Datayaan Solutions Pvt. Ltd.
+- 📍 Tamil Nadu, India
 
 ---
 
@@ -49,7 +49,7 @@ Passionate about building responsive web applications, exploring modern frontend
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-Oracle SQL
+**Oracle SQL**
 
 ---
 
@@ -59,8 +59,6 @@ Oracle SQL
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,figma,notion,vercel" />
 </p>
 
-**Additional Tools**
-
 - VS Code Insiders
 - EditPlus
 
@@ -68,57 +66,52 @@ Oracle SQL
 
 ## 🤖 AI Development Tools
 
-- Cursor
-- Lovable
-- Bolt.new
+- ⚡ Cursor
+- ❤️ Lovable
+- 🔥 Bolt.new
 
 ---
 
-## 📚 Learning & Problem Solving
+## 📚 Learning & Problem Solving Platforms
 
-- LeetCode
-- GeeksforGeeks
-- W3Schools
-
----
-
-## 🚀 Featured Projects
-
-### 🎙️ Smart College Assistant
-Voice-driven system for timetable, examination, and notice management using React.js, Node.js, MongoDB, and NLP.
-
-### 🛡️ Women Safety Analytics
-Real-time monitoring and alert generation system using Computer Vision and AI technologies.
-
-### 📋 Task Management System
-Interactive task management application built using HTML, CSS, JavaScript, and jQuery.
+- 🧩 LeetCode
+- 📖 GeeksforGeeks
+- 🌐 W3Schools
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Web Development Concepts
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishaal2108&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaal2108" />
-</p>
+- 📱 Responsive Design
+- 🎯 Mobile-First Development
+- 🔄 DOM Manipulation
+- ⚡ Event Handling
+- 🌍 Cross-Browser Compatibility
+- 🧩 Component-Based Architecture
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Currently Exploring
 
 <p>
-<a href="https://www.linkedin.com/in/vishaal-r-65b949330/" target="_blank">
-LinkedIn
-</a>
+  <img src="https://skillicons.dev/icons?i=react,ts" />
 </p>
 
-📧 Email: vishaal21082004@gmail.com
+- React Ecosystem
+- TypeScript
+- Modern Frontend Development
+- UI/UX Best Practices
 
 ---
 
 ## ✨ Motto
 
-> Learn 📚 → Build 💻 → Commit 🚀 → Repeat 🔁
+```javascript
+while (!success) {
+    learn();
+    build();
+    improve();
+}
+```
+
+> 🚀 Learn • Build • Improve • Repeat
