@@ -59,10 +59,6 @@ Passionate about building responsive web applications, learning modern technolog
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,figma,notion,vercel" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/VS_Code_Insiders-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/EditPlus-Text%20Editor-blue?style=for-the-badge" />
-</p>
 
 ---
 
@@ -73,7 +69,7 @@ Passionate about building responsive web applications, learning modern technolog
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/stackblitz" height="48" title="Bolt.new"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Lovable-AI-purple?style=for-the-badge"/>
+
 </p>
 
 ---
