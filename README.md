@@ -49,9 +49,9 @@ Passionate about building responsive web applications, learning modern technolog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" />
 </p>
-
----
 
 ## 🛠️ Development Tools & IDEs
 
